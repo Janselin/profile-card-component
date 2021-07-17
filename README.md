@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here] (https://github.com/Janselin/single-price-grid-component)
-- Live Site URL: [Add live site URL here] (https://janselin.github.io/single-price-grid-component/)
+- Solution URL: [Add solution URL here] (https://github.com/Janselin/profile-card-component)
+- Live Site URL: [Add live site URL here] (https://janselin.github.io/profile-card-component/)
 
 ## My process
 

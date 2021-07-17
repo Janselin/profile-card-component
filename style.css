@@ -15,9 +15,11 @@
         background-position: top -600px left -500px, bottom -700px right -400px;  }
 
 main{
+    
     font-family: 'Kumbh Sans', sans-serif;
     width: 100%;  
     display: flex;
+
  
     
    }
@@ -25,8 +27,8 @@ main{
 #container {
          width: 344px;
          height: 378px;
-         margin: 50px auto;
-         background-color: white;
+         margin: 90px auto;
+         background-color: rgb(255, 255, 255);
          border-radius: 12px;
          box-shadow: -3px 2px 64px -19px rgba(83,91,125,0.72);
     }
@@ -94,7 +96,7 @@ background-color: #E7E7E7;
 .stats p {
     font-size: 10px;
     font-weight: 400;
-    /* word-spacing: 3px; */
+   
 }
 .row {
     margin: 0px 26px;
@@ -113,7 +115,7 @@ background-color: #E7E7E7;
 
 
 
-footer .attribution {
+.attribution {
    
 width: 100%;
    
@@ -123,7 +125,6 @@ text-align: center;
    
 color: white;
    
-padding-top: 103px;
-   
+padding-top: 20px;
 }
 .attribution a { color: hsl(192, 83%, 77%); }

@@ -53,6 +53,9 @@ main{
     margin-top: -50px;
      }
      
+     .selfie img:hover {
+            transform: scale(1.2);  }
+
 .profile {
     width: 100%;
     display: flex;
@@ -102,29 +105,16 @@ background-color: #E7E7E7;
     margin: 0px 26px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-.attribution {
-   
-width: 100%;
-   
+.attribution {   
+width: 100%;   
 font-size: 11px;
-   
-text-align: center;
-   
-color: white;
-   
+text-align: center;   
+color: white;   
 padding-top: 20px;
 }
-.attribution a { color: hsl(192, 83%, 77%); }
+.attribution a { 
+    color: hsl(192, 83%, 77%);
+}
+.attribution p {
+    color: #E7E7E7;
+}
